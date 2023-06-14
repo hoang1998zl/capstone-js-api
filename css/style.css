@@ -150,6 +150,13 @@ header .login_bg {
   font-size: 20px;
   font-weight: 600;
 }
+.product .row_product .col_item .item_subtitle {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
 .product .row_product .col_item i:hover {
   color: orange;
 }
