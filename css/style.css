@@ -59,7 +59,7 @@ header .login_bg {
 .banner {
   position: relative;
   background: url(../img/banner7-12.jpg) center no-repeat;
-  background-size: contain;
+  background-size: cover;
   height: 100vh;
 }
 .banner .content_title {
